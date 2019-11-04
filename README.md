@@ -1,2 +1,1 @@
-# vanillawallet.github.io
-Vanillacoin Wallet Tools
+WIP
